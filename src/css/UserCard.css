@@ -1,0 +1,9 @@
+.user-card {
+    display: flex;
+    gap: 12px;
+    margin: 0px 20px 20px 20px;
+}
+
+.user-card__nam {
+    font-weight: bold;
+}
