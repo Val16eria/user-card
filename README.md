@@ -1,6 +1,6 @@
 <h1>user-card</h1>
 
-![image](https://user-images.githubusercontent.com/85391921/200194486-04d208cc-3d77-4d3d-9799-909ee61efbcc.png)
+![image](https://user-images.githubusercontent.com/85391921/201443488-8fcc7fba-843b-474e-b1d9-503de09f77c2.png)
 
 <h3>Новый материал:</h3>
 
